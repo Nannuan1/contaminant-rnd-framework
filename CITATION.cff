@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article and the archived software release."
+title: "Contaminant RND Framework"
+type: software
+version: 0.9.0
+date-released: 2026-11-11
+authors:
+  - family-names: Zhang
+    given-names: Kaijie
+  - family-names: Xu
+    given-names: Dong
+    email: xudong@hhu.edu.cn
+  - family-names: Yuan
+    given-names: Saiyu
+  - family-names: Ran
+    given-names: Qihua
+  - family-names: Zhang
+    given-names: Huiming
+  - family-names: Tang
+    given-names: Hongwu
+license: MIT
+keywords:
+  - numerical diffusion
+  - contaminant transport
+  - finite volume method
+  - scheme recommendation
+  - reproducible research
+

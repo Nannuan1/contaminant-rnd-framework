@@ -1,0 +1,10 @@
+﻿metric,value
+n_validation_cases,6.0
+decision_admissibility_rate,1.0
+top1_hit_rate,0.6666666666666666
+top2_hit_rate,1.0
+mean_relative_regret,0.09984768000408895
+max_relative_regret,0.29991374834741014
+mean_relative_composite_score_gap,0.09984768000408895
+max_relative_composite_score_gap,0.29991374834741014
+unique_recommendation_rate,0.6666666666666666
