@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+outputs/
+scratch/
+.matplotlib/
+
